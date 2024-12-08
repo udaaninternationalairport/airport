@@ -1,7 +1,7 @@
 # Udaan International Airport
 
 ## Overview
-Welcome to the official dummy repository for Udaan International Airport! This repository simulates the airport's IT infrastructure and operations for educational and research purposes. It includes sample code, configurations, and mock data for understanding airport systems and implementing cybersecurity practices.
+Welcome to the official repository for Udaan International Airport! This repository provides an in-depth look into the airport's IT infrastructure and operations. It includes code, configurations, and data for understanding airport systems and implementing modern IT practices.
 
 ---
 
@@ -15,36 +15,11 @@ Welcome to the official dummy repository for Udaan International Airport! This r
 
 ## Usage
 This repository is ideal for:
-- Simulating airport operations
-- Training in cybersecurity or IT infrastructure
+- Simulating airport operations for testing
+- Training in IT infrastructure and management
 - Demonstrating DevOps and SecOps practices
 
 ---
 
 ## License
-This project is for educational purposes only and is not associated with any real airport. Licensed under MIT License.
-# Udaan International Airport
-
-## Overview
-Welcome to the official dummy repository for Udaan International Airport! This repository simulates the airport's IT infrastructure and operations for educational and research purposes. It includes sample code, configurations, and mock data for understanding airport systems and implementing cybersecurity practices.
-
----
-
-## Features
-- Passenger management systems (check-in, boarding, and baggage tracking)
-- Flight management systems (scheduling, crew rosters, and fuel calculations)
-- Weather monitoring systems integrated with APIs
-- IT and cybersecurity documentation
-
----
-
-## Usage
-This repository is ideal for:
-- Simulating airport operations
-- Training in cybersecurity or IT infrastructure
-- Demonstrating DevOps and SecOps practices
-
----
-
-## License
-This project is for educational purposes only and is not associated with any real airport. Licensed under MIT License.
+This project is licensed under MIT License and is intended for educational and operational research purposes.
